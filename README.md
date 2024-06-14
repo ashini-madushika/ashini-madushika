@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashini-madushika&label=Profile%20views&color=0e75b6&style=flat" alt="ashini-madushika" /> </p>
 <h2> About Me </h2>
-
+<img align="right" width="350" height="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 - 🧑‍🎓 I'm undergraduate of **SLEATE**
 
 - 🌱 I’m currently learning **java**
