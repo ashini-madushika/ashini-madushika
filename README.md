@@ -5,7 +5,7 @@
 <h2> About Me </h2>
 <img align="right" width="350" height="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **SLIAT**
   
 - 🌱 I’m currently learning **java**
 
@@ -29,7 +29,7 @@
   
 [![Ashini's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashini-madushika&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ashini-madushika&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashini-madushika&theme=tokyonight) |
+| ![Ashini's github stats](https://github-readme-stats.vercel.app/api?username=ashini-madushika&show_icons=true&theme=tokyonight) | ![Ashini's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashini-madushika&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashini-madushika&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ashini-madushika&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
